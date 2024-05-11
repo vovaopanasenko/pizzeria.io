@@ -1,0 +1,48 @@
+body {
+	font-family: helvetica. sans-serif;
+	margin: 0 auto;
+	max-width: 600px;
+	background: #232323;
+}
+
+div {
+	height: 490px;
+	background-size: cover;
+	position: relative;
+	margin: 40px 0 0 0;
+	border-radius: 12px;
+}
+
+img {
+	border-radius: 20px;
+}
+
+h1 {
+	font-family: 'Londrina Shadow', cursive;
+	text-align: center;
+	font-size: 75px;
+	color: #aaaaaa;
+	margin: 60px 0 0 0;
+}
+
+h2 {
+	text-align: center;
+	color: #bbbbbb;
+	margin: 0px 0 70px 0;
+}
+
+p {
+	color: rgba(255,255,255,1);
+	background: black;
+	background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+	background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+	background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+	padding: 15px;
+	line-height: 30px;
+	text-align: justify-all;
+	position: absolute;
+	bottom: 0;
+	margin: 0;
+	height: 70px;
+	border-radius: 18px;
+}
